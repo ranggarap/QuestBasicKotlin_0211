@@ -40,3 +40,8 @@ Functions without return dan Lambda expressions
 Class (Create instance dan Access properties)
 <img width="477" height="440" alt="image" src="https://github.com/user-attachments/assets/2d227aea-7150-4737-b093-cb2d160ba5e7" />
 
+Member functions dan Data classes
+<img width="472" height="437" alt="image" src="https://github.com/user-attachments/assets/9b5092b1-7305-484d-9f1d-bec17d80a881" />
+null safety 
+
+<img width="474" height="433" alt="image" src="https://github.com/user-attachments/assets/14d9cecf-ec4a-45df-adb3-50c0a4b01729" />
