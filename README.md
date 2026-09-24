@@ -10,3 +10,10 @@ List
 <img width="479" height="509" alt="image" src="https://github.com/user-attachments/assets/c9519e97-62a0-4280-b54f-ba3c7aee8b5c" />
 Set
 <img width="473" height="436" alt="image" src="https://github.com/user-attachments/assets/05ce8770-bf78-4cf0-9bec-f3221107f542" />
+
+Map
+<img width="472" height="438" alt="image" src="https://github.com/user-attachments/assets/531d4b1f-9218-42e2-a235-5d3fe2231b25" />
+
+if
+<img width="476" height="439" alt="image" src="https://github.com/user-attachments/assets/71209114-3309-4952-96be-5022accc2ef0" />
+
