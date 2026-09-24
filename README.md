@@ -6,5 +6,7 @@ String templates
 <img width="479" height="502" alt="Screenshot 2026-09-24 195626" src="https://github.com/user-attachments/assets/d00e31c6-2316-4c25-835e-97628e8d2ea1" />
 Basic Types
 <img width="477" height="503" alt="image" src="https://github.com/user-attachments/assets/e66ca706-1d0a-4e87-9cd5-15b281a5fa96" />
-
-
+List
+<img width="479" height="509" alt="image" src="https://github.com/user-attachments/assets/c9519e97-62a0-4280-b54f-ba3c7aee8b5c" />
+Set
+<img width="473" height="436" alt="image" src="https://github.com/user-attachments/assets/05ce8770-bf78-4cf0-9bec-f3221107f542" />
